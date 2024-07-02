@@ -1,0 +1,11 @@
+699ac21541077efcee1968475d9ba599 *DESCRIPTION
+574e9650bdd174c02a4ce5408d1132c3 *NAMESPACE
+b309f768399c137dba8d124e98d31298 *NEWS.md
+f8e3f7ae9e2a342e7f20e828c3da0fef *R/invmodp.R
+fd295fa504985cca044b7e3d2b772a1a *R/rrefmodp.R
+79532ddd52dd187289a96cf5f789367e *README.md
+351bcea9c03e56d10cf185d255ea14f9 *man/inv_p.Rd
+982e103eb8aa255ca013daab5099a190 *man/rref_p.Rd
+5ad59c4755451033c91b34dd63b86191 *tests/testthat.R
+2412225fa4d71b29ab5339a20e7d191a *tests/testthat/test-invmodp.R
+610156c0e266f94a0297ef9802123422 *tests/testthat/test-rrefmodp.R
